@@ -17,7 +17,7 @@
 <h3 align="center">
   <a href="#%EF%B8%8F-about">About</a>
   <span> · </span>
-  <a href="#%EF%B8%8F-index">Index</a>
+  <a href="#-index">Index</a>
   <span> · </span>
   <a href="#%EF%B8%8F-usage">Usage</a>
   <span> · </span>
